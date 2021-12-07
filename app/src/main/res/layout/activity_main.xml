@@ -29,7 +29,6 @@
         android:layout_marginTop="16dp"
         android:ems="10"
         android:hint="@string/enter_nickname"
-        android:hintTextColor="#757575"
         android:importantForAutofill="no"
         android:inputType="textPersonName"
         android:minHeight="48dp"
@@ -37,7 +36,7 @@
         tools:ignore="TextContrastCheck" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/done_button"
         style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
