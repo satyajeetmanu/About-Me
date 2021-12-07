@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="nameSize">20sp</dimen>
+    <dimen name="bioTextSize">16sp</dimen>
     <dimen name="textPadding">8dp</dimen>
     <dimen name="layoutMargin">10dp</dimen>
+    <dimen name="padding">16dp</dimen>
 </resources>
